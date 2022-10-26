@@ -1,0 +1,8 @@
+D:\Project_C#\Snake\Snake\bin\Debug\Snake.exe.config
+D:\Project_C#\Snake\Snake\bin\Debug\Snake.exe
+D:\Project_C#\Snake\Snake\bin\Debug\Snake.pdb
+D:\Project_C#\Snake\Snake\obj\Debug\Snake.csproj.AssemblyReference.cache
+D:\Project_C#\Snake\Snake\obj\Debug\Snake.csproj.SuggestedBindingRedirects.cache
+D:\Project_C#\Snake\Snake\obj\Debug\Snake.csproj.CoreCompileInputs.cache
+D:\Project_C#\Snake\Snake\obj\Debug\Snake.exe
+D:\Project_C#\Snake\Snake\obj\Debug\Snake.pdb
